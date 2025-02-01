@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1" version="26.0.10">
   <diagram name="Página-1" id="31JTXgvUbPLdahmAMCXh">
-    <mxGraphModel dx="204" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-6" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="153" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="74-iCqQTVMRMjZLDU1ki-6" target="74-iCqQTVMRMjZLDU1ki-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="220" as="sourcePoint" />
+            <mxPoint x="164" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="74-iCqQTVMRMjZLDU1ki-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.01400000000001" y="329.00000000000006" as="sourcePoint" />
+            <mxPoint x="39" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.434;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="74-iCqQTVMRMjZLDU1ki-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.01400000000001" y="329.00000000000006" as="sourcePoint" />
+            <mxPoint x="38" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-15" value="Entrar a github.com" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-21.5" y="235" width="121" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="14" y="446" width="50" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-11" y="348" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-22" value="¿Ya eres miembro?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="74-iCqQTVMRMjZLDU1ki-26">
+          <mxGeometry width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.940000000000005" y="453" as="sourcePoint" />
+            <mxPoint x="38.940000000000005" y="472" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="38.940000000000005" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-27" value="Si, Iniciar sesión&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="518" width="82" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-28" value="No, Registrarse&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=27;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="518" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="74-iCqQTVMRMjZLDU1ki-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="534" as="sourcePoint" />
+            <mxPoint x="-91" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-30" value="Rellenar formulario de registro&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=27;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-173" y="518" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.8;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="74-iCqQTVMRMjZLDU1ki-32" target="74-iCqQTVMRMjZLDU1ki-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-117" y="499" as="sourcePoint" />
+            <mxPoint x="-94" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74-iCqQTVMRMjZLDU1ki-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="441" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
