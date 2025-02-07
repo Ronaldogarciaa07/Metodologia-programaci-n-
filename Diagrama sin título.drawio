@@ -46,7 +46,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="unvtXDgZvLdVAHm-BKA2" name="Página-2">
+  <diagram id="unvtXDgZvLdVAHm-BKA2" name="EJERCICIO 2">
     <mxGraphModel dx="1073" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -63,8 +63,8 @@
             <mxPoint x="180" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaoSyzYjn5IvlZ-Eoaz8-4" value="INGRESAR METROS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="190" height="60" as="geometry" />
+        <mxCell id="JaoSyzYjn5IvlZ-Eoaz8-4" value="&quot;INGRESAR METROS&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="160" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaoSyzYjn5IvlZ-Eoaz8-5" value="PULGADAS= (METROS * 100) / 2.54" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="260" width="240" height="100" as="geometry" />
